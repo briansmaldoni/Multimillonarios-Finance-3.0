@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.briansmaldoni.twa",
-        "sha256_cert_fingerprints": ["36:65:34:10:FB:17:46:16:E7:42:64:0C:0C:82:98:13:DB:56:94:62:C1:88:DA:A4:0D:49:C9:A2:22:63:E7:35"]
-      }
-    }]
